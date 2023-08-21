@@ -1,4 +1,5 @@
 console.log("hello world!");
+console.log("we are in git");
 const btn = document.querySelector(".btn-open");
 const form = document.querySelector(".fact-form");
 const factslist = document.querySelector(".facts-list");
